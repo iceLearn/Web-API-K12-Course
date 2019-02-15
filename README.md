@@ -4,7 +4,7 @@
 Modern web is an ever changing landscape. This 1-2 day introductory course is a fun way for **high-school students** (9th-12th graders) to learn about how Web Application Programming Interfaces (APIs) tie together the internet of today - encompassing web and mobile applications that we use to search flights, book a rede, look up the weather or even just browse through funny cat videos!
 
 
-## Teaching Guidelines
+## Teaching Guidelines 
 Web APIs are the primary interface to interact with modern internet and web services. For example, each time you call your Uber or Lyft using your mobile, you use APIs. Through this course, students get a high-level overview of the Web APIs - what they are, how they work, along with some popular types and their examples. 
 * Introduce the students to the basics of web APIs. 
 * Demonstrate the use of an example API ([Giphy](https://developers.giphy.com/), [Weather API](https://openweathermap.org/api), etc.) in a program of their preferred programming language. 
@@ -16,6 +16,12 @@ Web APIs are the primary interface to interact with modern internet and web serv
 ## Course Contents
 
 > :information_source: **Note:** This curriculum is intended to be a 2-day workshop. Ideally, each lesson below could be split further into two for teaching purpose; totaling every session no longer than 45 minutes. 
+
+### :pencil: Learning outcomes 
+* Students will be able to understand basics of web APIs
+* Students will be able to identify the use of API in different example scenarios 
+* Stuentns will be able to understand and practice  Wikipedia APIs and usecases of those
+* Students will be able to use and practice API's in their projects while obtaining support from the community 
 
 ### :book: Lesson 1  
 
